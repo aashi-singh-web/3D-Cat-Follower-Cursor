@@ -6,12 +6,18 @@ A fun and interactive project where a 3D cat follows your cursor across the scre
 
 # 🚀 Features
 🐾 Real-time 3D cursor following behavior
+
 😺 Smooth and step-based animation
+
 🎨 Easily replaceable models and behavior tweaks
+
 💡 Lightweight, fast, and responsive
+
 💻 Built with Three.js (WebGL)
 
 # 🛠️ Tech Stack
 Three.js – 3D rendering
+
 JavaScript – Logic & interactivity
+
 HTML/CSS – UI structure & styling
