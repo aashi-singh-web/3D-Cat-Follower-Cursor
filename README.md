@@ -2,7 +2,7 @@
 A fun and interactive project where a 3D cat follows your cursor across the screen in smooth, delayed steps. Built with Three.js, this lightweight animation adds charm and creativity to any web interface.
 
 # 🎬 Demo
-[🔗View Live Preview](https://github.com/user-attachments/assets/9a8e81f2-0b56-4e53-9b25-37bdafd00b0f)
+[🔗 View Live Preview](https://github.com/user-attachments/assets/9a8e81f2-0b56-4e53-9b25-37bdafd00b0f)
 
 
 # 📸 Preview
